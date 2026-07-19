@@ -8,7 +8,7 @@ import {
 import { useState, useEffect } from "react";
 import { getDashboardStats } from "../services/candidateService";
 import AddCandidateModal from "../components/AddCandidateModal";
-import Header from "../components/Header";
+import Header from "../components/header";
 import StatCard from "../components/StatCard";
 import CandidateTable from "../components/CandidateTable";
 import { Users, UserCheck, Briefcase, Mail } from "lucide-react";
