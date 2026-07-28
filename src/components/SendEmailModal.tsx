@@ -6,7 +6,7 @@
 
 import { useState, useEffect } from "react";
 import { Loader2, X, AlertCircle, CheckCircle } from "lucide-react";
-const DEFAULT_APPLICATION_FORM_URL = "https://forms.gle/v47TC65JqzgpsBzL7";
+const DEFAULT_APPLICATION_FORM_URL = "https://forms.gle/b8q8k5xa7JoY2Sup8";
 
 import {
   sendEmail,
